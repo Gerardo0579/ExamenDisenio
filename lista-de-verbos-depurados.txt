@@ -1,0 +1,16 @@
+Administrador
+Autobús
+Auto
+CatalogoVehículos
+Camioneta
+Chofer
+Cliente
+Costo
+Cotización
+DevoluciónVehículo
+FacturaServicio
+CarteraClientesFrecuentes
+RentaVehículo
+ReporteVentas
+SistemaWeb
+Sucursal

@@ -1,0 +1,53 @@
+Actualizar vehículos en catálogos
+Acudir a la empresa
+Acudir a la sucursal
+Administrador
+Autobús
+Autos
+Calcular el monto según el número de días y tipo de renta
+Cartera de clientes frecuentes
+Camioneta
+Chofer
+Cliente
+Cliente mayor de edad
+Clientes
+Consultar ingresos de la empresa visualmente 
+Control de renta de autos
+Costo extra depende el transporte
+Costos
+Cotización
+Depósito bancario
+Devolución
+Empresa Rent-Car
+Entrega
+Entrega del auto al cliente
+Enviará cotización al cliente por correo electrónico
+Envío de factura por e-mail
+Factura del servicio solicitado
+Imprimir reporte de ventas anual
+Imprimir reporte de ventas mensual 
+Imprimir reporte de ventas quincenal
+Imprimir reporte de ventas semanal
+Kilometraje ilimitado
+Licencia de conducir vigente
+Llevar el vehículo a su domicilio
+Mínimo de kilometraje
+Mostrar los autos que se recomiendan
+Número de personas indicadas
+Pago por tarjeta de crédito
+Pago por tarjeta de débito
+Pasajeros
+Registrar vehículos en catálogos
+Registrarse en el sistema
+Renta de vehículos
+Rentar un auto
+Seguro de vehículo obligatorio
+Servicio de la empresa
+Sistema
+Sistema web
+Solicita un presupuesto
+Solicita un vehículo
+Solicitar la renta de un automóvil, camioneta o autobús
+Sucursales
+Tanque de gasolina
+Transferencia electrónica
